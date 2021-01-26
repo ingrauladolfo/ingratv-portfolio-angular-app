@@ -1,0 +1,431 @@
+@media (min-width: 100px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+}
+@media (min-width: 280px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    
+}
+@media (min-width: 300px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    .view img {
+        margin-left: 22px;
+    }
+    
+}
+@media (min-width: 360px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    .view img {
+        margin-left: 50px;
+    }
+    
+}
+@media (min-width: 411px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    .view img {
+        margin-left: 70px;
+    }
+    
+}
+@media (min-width: 480px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    .view img {
+        margin-left: 120px;
+    }
+    
+}
+@media (min-width: 540px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    .view img {
+        margin-left: 120px;
+    }
+    
+}
+@media (min-width: 600px) {
+    .hm-gradient {
+        width: 100%;
+        height: 900px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .heading {
+        margin: 0 6rem;
+        font-weight: 700;
+        color: #ffffff;
+    }
+    .subheading {
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    .view img {
+        margin-left: 180px;
+    }
+    
+}
+@media (min-width: 768px) {
+    .hm-gradient {
+        width: 100%;
+        height: 800px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    
+    .heading {
+        font-weight: 700;
+        font-size: 50px;
+        color: #ffffff;
+    }
+    .subheading {
+        font-weight: 700;
+        margin-top: 30px;
+        font-size: 25px;
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 10rem;
+        margin-top: 3rem;
+    }
+    a{
+        font-weight: 700;
+        font-size: 25px;
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    
+    
+}
+@media (min-width: 2000px) {
+    .hm-gradient {
+        width: 100%;
+        height: 500px;
+        background: url('../../../assets/images/backgrounds/home-background.jpeg') top center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+    }
+    
+    .heading {
+        font-weight: 700;
+        font-size: 50px;
+        color: #ffffff;
+    }
+    .subheading {
+        font-weight: 700;
+        margin-top: 30px;
+        font-size: 25px;
+        color: #5eff07;
+    }
+    .btn.btn-margin {
+        margin-left: 10rem;
+        margin-top: 3rem;
+    }
+    a{
+        font-weight: 700;
+        font-size: 25px;
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #000000;
+    }
+    .btn.btn-lily {
+        background: #000000;
+        border: 1px solid #5eff07;
+    }
+    .btn.btn-lily:hover {
+        background: #5eff07;
+        border: 1px solid #000000;
+    }
+    
+    
+}
