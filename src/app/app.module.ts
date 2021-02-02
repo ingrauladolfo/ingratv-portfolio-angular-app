@@ -15,14 +15,19 @@ import { FooterComponent } from './components/footer/footer.component';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 // MDB Angular Free
 import { WavesModule, ButtonsModule, IconsModule } from 'angular-bootstrap-md';
-import { HomeComponent } from './components/home/home.component'
+import { HomeComponent } from './components/home/home.component';
+import { CompaniesComponent } from './components/companies/companies.component';
+import {MatCardModule} from '@angular/material/card';
+import { RobemexProjectsComponent } from './components/companies/robemex/robemex-projects.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
     FooterComponent,
-    HomeComponent
+    HomeComponent,
+    CompaniesComponent,
+    RobemexProjectsComponent
   ],
   imports: [
     BrowserModule,
@@ -32,6 +37,7 @@ import { HomeComponent } from './components/home/home.component'
     MatButtonModule,
     MatIconModule,
     MatMenuModule,
+    MatCardModule,
     WavesModule, ButtonsModule, IconsModule,
     MDBBootstrapModule.forRoot(),
     
