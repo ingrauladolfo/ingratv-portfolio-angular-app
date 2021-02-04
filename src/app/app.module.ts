@@ -19,6 +19,10 @@ import { HomeComponent } from './components/home/home.component';
 import { CompaniesComponent } from './components/companies/companies.component';
 import {MatCardModule} from '@angular/material/card';
 import { RobemexProjectsComponent } from './components/companies/robemex/robemex-projects.component';
+import { TatichProjectsComponent } from './components/companies/tatich/tatich-projects.component';
+import { RnetProjectsComponent } from './components/companies/rnet/rnet-projects.component';
+import { AboutComponent } from './components/about/about.component';
+import { SkillsComponent } from './components/about/skills/skills.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +31,11 @@ import { RobemexProjectsComponent } from './components/companies/robemex/robemex
     FooterComponent,
     HomeComponent,
     CompaniesComponent,
-    RobemexProjectsComponent
+    RobemexProjectsComponent,
+    TatichProjectsComponent,
+    RnetProjectsComponent,
+    AboutComponent,
+    SkillsComponent
   ],
   imports: [
     BrowserModule,
