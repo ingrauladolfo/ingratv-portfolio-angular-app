@@ -5,8 +5,26 @@
     max-width: 400px;
   }
   
-  .example-header-image {
+  .rompope-carmelita-header-image {
     background-image: url('../../../../assets/images/companies/products-external-branches/robemex/rompope-carmelita.png');
+    background-size: cover;
+    width: 20%;
+
+  }
+  .rompope-delaabuela-header-image{
+    background-image: url('../../../../assets/images/companies/products-external-branches/robemex/rompope-de-la-abuela.png');
+    background-size: cover;
+    width: 20%;
+
+  }
+  .mexizcal-header-image{
+    background-image: url('../../../../assets/images/companies/products-external-branches/robemex/mexizcal.png');
+    background-size: cover;
+    width: 20%;
+
+  }
+  .robemex-header-image{
+    background-image: url('../../../../assets/images/companies/logos/robemex.png');
     background-size: cover;
     width: 20%;
 
